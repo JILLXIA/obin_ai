@@ -1,0 +1,2389 @@
+{
+  "pdf_sha256": "e36d41ed3a32874efba3e33dc89ef7e1329e32a26e91b453cb0e9b680288a783",
+  "page_count": 80,
+  "sections": [
+    {
+      "page": 1,
+      "top": 0,
+      "section_path": [
+        "Cover Page"
+      ],
+      "anchor_text": ""
+    },
+    {
+      "page": 3,
+      "top": 97.948,
+      "section_path": [
+        "TABLE OF CONTENTS"
+      ],
+      "anchor_text": "TABLE OF CONTENTS"
+    },
+    {
+      "page": 4,
+      "top": 0,
+      "section_path": [
+        "Forward-looking statements"
+      ],
+      "anchor_text": ""
+    },
+    {
+      "page": 4,
+      "top": 256.348,
+      "section_path": [
+        "PART I"
+      ],
+      "anchor_text": "PART I"
+    },
+    {
+      "page": 4,
+      "top": 279.148,
+      "section_path": [
+        "PART I",
+        "Item 1. Business"
+      ],
+      "anchor_text": "Item 1. Business"
+    },
+    {
+      "page": 4,
+      "top": 298.948,
+      "section_path": [
+        "PART I",
+        "Item 1. Business",
+        "Company Background"
+      ],
+      "anchor_text": "Company Background"
+    },
+    {
+      "page": 4,
+      "top": 366.148,
+      "section_path": [
+        "PART I",
+        "Item 1. Business",
+        "Products"
+      ],
+      "anchor_text": "Products"
+    },
+    {
+      "page": 4,
+      "top": 385.948,
+      "section_path": [
+        "PART I",
+        "Item 1. Business",
+        "Products",
+        "iPhone"
+      ],
+      "anchor_text": "iPhone"
+    },
+    {
+      "page": 4,
+      "top": 442.748,
+      "section_path": [
+        "PART I",
+        "Item 1. Business",
+        "Products",
+        "Mac"
+      ],
+      "anchor_text": "Mac"
+    },
+    {
+      "page": 4,
+      "top": 499.548,
+      "section_path": [
+        "PART I",
+        "Item 1. Business",
+        "Products",
+        "iPad"
+      ],
+      "anchor_text": "iPad"
+    },
+    {
+      "page": 4,
+      "top": 556.348,
+      "section_path": [
+        "PART I",
+        "Item 1. Business",
+        "Products",
+        "Wearables, Home and Accessories"
+      ],
+      "anchor_text": "Wearables, Home and Accessories"
+    },
+    {
+      "page": 5,
+      "top": 42.748,
+      "section_path": [
+        "PART I",
+        "Item 1. Business",
+        "Services"
+      ],
+      "anchor_text": "Services"
+    },
+    {
+      "page": 5,
+      "top": 62.548,
+      "section_path": [
+        "PART I",
+        "Item 1. Business",
+        "Services",
+        "Advertising"
+      ],
+      "anchor_text": "Advertising"
+    },
+    {
+      "page": 5,
+      "top": 108.148,
+      "section_path": [
+        "PART I",
+        "Item 1. Business",
+        "Services",
+        "AppleCare"
+      ],
+      "anchor_text": "AppleCare"
+    },
+    {
+      "page": 5,
+      "top": 187.348,
+      "section_path": [
+        "PART I",
+        "Item 1. Business",
+        "Services",
+        "Cloud Services"
+      ],
+      "anchor_text": "Cloud Services"
+    },
+    {
+      "page": 5,
+      "top": 243.748,
+      "section_path": [
+        "PART I",
+        "Item 1. Business",
+        "Services",
+        "Digital Content"
+      ],
+      "anchor_text": "Digital Content"
+    },
+    {
+      "page": 5,
+      "top": 360.148,
+      "section_path": [
+        "PART I",
+        "Item 1. Business",
+        "Services",
+        "Payment Services"
+      ],
+      "anchor_text": "Payment Services"
+    },
+    {
+      "page": 5,
+      "top": 417.748,
+      "section_path": [
+        "PART I",
+        "Item 1. Business",
+        "Segments"
+      ],
+      "anchor_text": "Segments"
+    },
+    {
+      "page": 5,
+      "top": 528.148,
+      "section_path": [
+        "PART I",
+        "Item 1. Business",
+        "Markets and Distribution"
+      ],
+      "anchor_text": "Markets and Distribution"
+    },
+    {
+      "page": 5,
+      "top": 616.948,
+      "section_path": [
+        "PART I",
+        "Item 1. Business",
+        "Competition"
+      ],
+      "anchor_text": "Competition"
+    },
+    {
+      "page": 6,
+      "top": 245.548,
+      "section_path": [
+        "PART I",
+        "Item 1. Business",
+        "Supply of Components"
+      ],
+      "anchor_text": "Supply of Components"
+    },
+    {
+      "page": 6,
+      "top": 433.948,
+      "section_path": [
+        "PART I",
+        "Item 1. Business",
+        "Research and Development"
+      ],
+      "anchor_text": "Research and Development"
+    },
+    {
+      "page": 6,
+      "top": 522.748,
+      "section_path": [
+        "PART I",
+        "Item 1. Business",
+        "Intellectual Property"
+      ],
+      "anchor_text": "Intellectual Property"
+    },
+    {
+      "page": 7,
+      "top": 42.748,
+      "section_path": [
+        "PART I",
+        "Item 1. Business",
+        "Business Seasonality and Product Introductions"
+      ],
+      "anchor_text": "Business Seasonality and Product Introductions"
+    },
+    {
+      "page": 7,
+      "top": 142.348,
+      "section_path": [
+        "PART I",
+        "Item 1. Business",
+        "Human Capital"
+      ],
+      "anchor_text": "Human Capital"
+    },
+    {
+      "page": 7,
+      "top": 209.548,
+      "section_path": [
+        "PART I",
+        "Item 1. Business",
+        "Human Capital",
+        "Workplace Practices and Policies"
+      ],
+      "anchor_text": "Workplace Practices and Policies"
+    },
+    {
+      "page": 7,
+      "top": 265.948,
+      "section_path": [
+        "PART I",
+        "Item 1. Business",
+        "Human Capital",
+        "Compensation and Benefits"
+      ],
+      "anchor_text": "Compensation and Benefits"
+    },
+    {
+      "page": 7,
+      "top": 354.748,
+      "section_path": [
+        "PART I",
+        "Item 1. Business",
+        "Human Capital",
+        "Inclusion and Diversity"
+      ],
+      "anchor_text": "Inclusion and Diversity"
+    },
+    {
+      "page": 7,
+      "top": 421.948,
+      "section_path": [
+        "PART I",
+        "Item 1. Business",
+        "Human Capital",
+        "Engagement"
+      ],
+      "anchor_text": "Engagement"
+    },
+    {
+      "page": 7,
+      "top": 499.948,
+      "section_path": [
+        "PART I",
+        "Item 1. Business",
+        "Human Capital",
+        "Health and Safety"
+      ],
+      "anchor_text": "Health and Safety"
+    },
+    {
+      "page": 7,
+      "top": 588.748,
+      "section_path": [
+        "PART I",
+        "Item 1. Business",
+        "Available Information"
+      ],
+      "anchor_text": "Available Information"
+    },
+    {
+      "page": 8,
+      "top": 42.748,
+      "section_path": [
+        "PART I",
+        "Item 1A. Risk Factors"
+      ],
+      "anchor_text": "Item 1A. Risk Factors"
+    },
+    {
+      "page": 8,
+      "top": 220.348,
+      "section_path": [
+        "PART I",
+        "Item 1A. Risk Factors",
+        "Macroeconomic and Industry Risks"
+      ],
+      "anchor_text": "Macroeconomic and Industry Risks"
+    },
+    {
+      "page": 10,
+      "top": 378.748,
+      "section_path": [
+        "PART I",
+        "Item 1A. Risk Factors",
+        "Business Risks"
+      ],
+      "anchor_text": "Business Risks"
+    },
+    {
+      "page": 12,
+      "top": 405.148,
+      "section_path": [
+        "PART I",
+        "Item 1A. Risk Factors",
+        "Business Risks",
+        "The Company’s future performance depends in part on support from third-party software developers."
+      ],
+      "anchor_text": "The Company’s future performance depends in part on support from third-party software developers."
+    },
+    {
+      "page": 13,
+      "top": 619.948,
+      "section_path": [
+        "PART I",
+        "Item 1A. Risk Factors",
+        "Business Risks",
+        "The Company depends on the performance of carriers, wholesalers, retailers and other resellers."
+      ],
+      "anchor_text": "The Company depends on the performance of carriers, wholesalers, retailers and other resellers."
+    },
+    {
+      "page": 15,
+      "top": 196.348,
+      "section_path": [
+        "PART I",
+        "Item 1A. Risk Factors",
+        "Business Risks",
+        "The Company’s retail stores are subject to numerous risks and uncertainties."
+      ],
+      "anchor_text": "The Company’s retail stores are subject to numerous risks and uncertainties."
+    },
+    {
+      "page": 15,
+      "top": 285.148,
+      "section_path": [
+        "PART I",
+        "Item 1A. Risk Factors",
+        "Legal and Regulatory Compliance Risks"
+      ],
+      "anchor_text": "Legal and Regulatory Compliance Risks"
+    },
+    {
+      "page": 18,
+      "top": 42.748,
+      "section_path": [
+        "PART I",
+        "Item 1A. Risk Factors",
+        "Financial Risks"
+      ],
+      "anchor_text": "Financial Risks"
+    },
+    {
+      "page": 18,
+      "top": 62.548,
+      "section_path": [
+        "PART I",
+        "Item 1A. Risk Factors",
+        "Financial Risks",
+        "The Company expects its quarterly net sales and results of operations to fluctuate."
+      ],
+      "anchor_text": "The Company expects its quarterly net sales and results of operations to fluctuate."
+    },
+    {
+      "page": 18,
+      "top": 579.748,
+      "section_path": [
+        "PART I",
+        "Item 1A. Risk Factors",
+        "Financial Risks",
+        "The Company is exposed to credit risk and fluctuations in the values of its investment portfolio."
+      ],
+      "anchor_text": "The Company is exposed to credit risk and fluctuations in the values of its investment portfolio."
+    },
+    {
+      "page": 19,
+      "top": 437.548,
+      "section_path": [
+        "PART I",
+        "Item 1A. Risk Factors",
+        "General Risks"
+      ],
+      "anchor_text": "General Risks"
+    },
+    {
+      "page": 19,
+      "top": 457.348,
+      "section_path": [
+        "PART I",
+        "Item 1A. Risk Factors",
+        "General Risks",
+        "The price of the Company’s stock is subject to volatility."
+      ],
+      "anchor_text": "The price of the Company’s stock is subject to volatility."
+    },
+    {
+      "page": 19,
+      "top": 610.948,
+      "section_path": [
+        "PART I",
+        "Item 1B. Unresolved Staff Comments"
+      ],
+      "anchor_text": "Item 1B. Unresolved Staff Comments"
+    },
+    {
+      "page": 19,
+      "top": 659.548,
+      "section_path": [
+        "PART I",
+        "Item 1C. Cybersecurity"
+      ],
+      "anchor_text": "Item 1C. Cybersecurity"
+    },
+    {
+      "page": 20,
+      "top": 42.748,
+      "section_path": [
+        "PART I",
+        "Item 2. Properties"
+      ],
+      "anchor_text": "Item 2. Properties"
+    },
+    {
+      "page": 20,
+      "top": 123.748,
+      "section_path": [
+        "PART I",
+        "Item 3. Legal Proceedings"
+      ],
+      "anchor_text": "Item 3. Legal Proceedings"
+    },
+    {
+      "page": 20,
+      "top": 143.548,
+      "section_path": [
+        "PART I",
+        "Item 3. Legal Proceedings",
+        "Epic Games"
+      ],
+      "anchor_text": "Epic Games"
+    },
+    {
+      "page": 20,
+      "top": 297.148,
+      "section_path": [
+        "PART I",
+        "Item 3. Legal Proceedings",
+        "Masimo"
+      ],
+      "anchor_text": "Masimo"
+    },
+    {
+      "page": 20,
+      "top": 418.348,
+      "section_path": [
+        "PART I",
+        "Item 3. Legal Proceedings",
+        "Other Legal Proceedings"
+      ],
+      "anchor_text": "Other Legal Proceedings"
+    },
+    {
+      "page": 20,
+      "top": 517.948,
+      "section_path": [
+        "PART I",
+        "Item 4. Mine Safety Disclosures"
+      ],
+      "anchor_text": "Item 4. Mine Safety Disclosures"
+    },
+    {
+      "page": 21,
+      "top": 42.748,
+      "section_path": [
+        "PART II"
+      ],
+      "anchor_text": "PART II"
+    },
+    {
+      "page": 21,
+      "top": 65.548,
+      "section_path": [
+        "PART II",
+        "Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities"
+      ],
+      "anchor_text": "Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities"
+    },
+    {
+      "page": 21,
+      "top": 124.948,
+      "section_path": [
+        "PART II",
+        "Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities",
+        "Holders"
+      ],
+      "anchor_text": "Holders"
+    },
+    {
+      "page": 21,
+      "top": 170.548,
+      "section_path": [
+        "PART II",
+        "Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities",
+        "Purchases of Equity Securities by the Issuer and Affiliated Purchasers"
+      ],
+      "anchor_text": "Purchases of Equity Securities by the Issuer and Affiliated Purchasers"
+    },
+    {
+      "page": 22,
+      "top": 42.748,
+      "section_path": [
+        "PART II",
+        "Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities",
+        "Company Stock Performance"
+      ],
+      "anchor_text": "Company Stock Performance"
+    },
+    {
+      "page": 22,
+      "top": 573.548,
+      "section_path": [
+        "PART II",
+        "Item 6. [Reserved]"
+      ],
+      "anchor_text": "Item 6. [Reserved]"
+    },
+    {
+      "page": 23,
+      "top": 42.748,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations"
+      ],
+      "anchor_text": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations"
+    },
+    {
+      "page": 23,
+      "top": 134.548,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Fiscal Period"
+      ],
+      "anchor_text": "Fiscal Period"
+    },
+    {
+      "page": 23,
+      "top": 212.548,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Fiscal Year Highlights"
+      ],
+      "anchor_text": "Fiscal Year Highlights"
+    },
+    {
+      "page": 23,
+      "top": 614.548,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Fiscal Year Highlights",
+        "Macroeconomic Conditions"
+      ],
+      "anchor_text": "Macroeconomic Conditions"
+    },
+    {
+      "page": 24,
+      "top": 42.748,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Segment Operating Performance"
+      ],
+      "anchor_text": "Segment Operating Performance"
+    },
+    {
+      "page": 24,
+      "top": 208.848,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Segment Operating Performance",
+        "Americas"
+      ],
+      "anchor_text": "Americas"
+    },
+    {
+      "page": 24,
+      "top": 265.248,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Segment Operating Performance",
+        "Europe"
+      ],
+      "anchor_text": "Europe"
+    },
+    {
+      "page": 24,
+      "top": 332.448,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Segment Operating Performance",
+        "Greater China"
+      ],
+      "anchor_text": "Greater China"
+    },
+    {
+      "page": 24,
+      "top": 399.648,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Segment Operating Performance",
+        "Japan"
+      ],
+      "anchor_text": "Japan"
+    },
+    {
+      "page": 24,
+      "top": 466.848,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Segment Operating Performance",
+        "Rest of Asia Pacific"
+      ],
+      "anchor_text": "Rest of Asia Pacific"
+    },
+    {
+      "page": 25,
+      "top": 42.748,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Products and Services Performance"
+      ],
+      "anchor_text": "Products and Services Performance"
+    },
+    {
+      "page": 25,
+      "top": 255.648,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Products and Services Performance",
+        "iPhone"
+      ],
+      "anchor_text": "iPhone"
+    },
+    {
+      "page": 25,
+      "top": 312.048,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Products and Services Performance",
+        "Mac"
+      ],
+      "anchor_text": "Mac"
+    },
+    {
+      "page": 25,
+      "top": 357.198,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Products and Services Performance",
+        "iPad"
+      ],
+      "anchor_text": "iPad"
+    },
+    {
+      "page": 25,
+      "top": 413.598,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Products and Services Performance",
+        "Wearables, Home and Accessories"
+      ],
+      "anchor_text": "Wearables, Home and Accessories"
+    },
+    {
+      "page": 25,
+      "top": 469.998,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Products and Services Performance",
+        "Services"
+      ],
+      "anchor_text": "Services"
+    },
+    {
+      "page": 26,
+      "top": 42.748,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Gross Margin"
+      ],
+      "anchor_text": "Gross Margin"
+    },
+    {
+      "page": 26,
+      "top": 234.098,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Gross Margin",
+        "Products Gross Margin"
+      ],
+      "anchor_text": "Products Gross Margin"
+    },
+    {
+      "page": 26,
+      "top": 324.098,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Gross Margin",
+        "Services Gross Margin"
+      ],
+      "anchor_text": "Services Gross Margin"
+    },
+    {
+      "page": 26,
+      "top": 464.498,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Operating Expenses"
+      ],
+      "anchor_text": "Operating Expenses"
+    },
+    {
+      "page": 26,
+      "top": 623.848,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Operating Expenses",
+        "Research and Development"
+      ],
+      "anchor_text": "Research and Development"
+    },
+    {
+      "page": 26,
+      "top": 669.448,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Operating Expenses",
+        "Selling, General and Administrative"
+      ],
+      "anchor_text": "Selling, General and Administrative"
+    },
+    {
+      "page": 27,
+      "top": 42.748,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Provision for Income Taxes"
+      ],
+      "anchor_text": "Provision for Income Taxes"
+    },
+    {
+      "page": 27,
+      "top": 251.448,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Liquidity and Capital Resources"
+      ],
+      "anchor_text": "Liquidity and Capital Resources"
+    },
+    {
+      "page": 27,
+      "top": 332.448,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Liquidity and Capital Resources",
+        "Debt"
+      ],
+      "anchor_text": "Debt"
+    },
+    {
+      "page": 27,
+      "top": 433.248,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Liquidity and Capital Resources",
+        "Leases"
+      ],
+      "anchor_text": "Leases"
+    },
+    {
+      "page": 27,
+      "top": 500.448,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Liquidity and Capital Resources",
+        "Manufacturing Purchase Obligations"
+      ],
+      "anchor_text": "Manufacturing Purchase Obligations"
+    },
+    {
+      "page": 27,
+      "top": 578.448,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Liquidity and Capital Resources",
+        "Other Purchase Obligations"
+      ],
+      "anchor_text": "Other Purchase Obligations"
+    },
+    {
+      "page": 27,
+      "top": 656.448,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Liquidity and Capital Resources",
+        "Deemed Repatriation Tax Payable"
+      ],
+      "anchor_text": "Deemed Repatriation Tax Payable"
+    },
+    {
+      "page": 28,
+      "top": 42.748,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Liquidity and Capital Resources",
+        "Capital Return Program"
+      ],
+      "anchor_text": "Capital Return Program"
+    },
+    {
+      "page": 28,
+      "top": 120.748,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Critical Accounting Estimates"
+      ],
+      "anchor_text": "Critical Accounting Estimates"
+    },
+    {
+      "page": 28,
+      "top": 231.148,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Critical Accounting Estimates",
+        "Uncertain Tax Positions"
+      ],
+      "anchor_text": "Uncertain Tax Positions"
+    },
+    {
+      "page": 28,
+      "top": 352.348,
+      "section_path": [
+        "PART II",
+        "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Critical Accounting Estimates",
+        "Legal and Other Contingencies"
+      ],
+      "anchor_text": "Legal and Other Contingencies"
+    },
+    {
+      "page": 29,
+      "top": 42.748,
+      "section_path": [
+        "PART II",
+        "Item 7A. Quantitative and Qualitative Disclosures About Market Risk"
+      ],
+      "anchor_text": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk"
+    },
+    {
+      "page": 29,
+      "top": 102.148,
+      "section_path": [
+        "PART II",
+        "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+        "Interest Rate Risk"
+      ],
+      "anchor_text": "Interest Rate Risk"
+    },
+    {
+      "page": 29,
+      "top": 285.798,
+      "section_path": [
+        "PART II",
+        "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+        "Foreign Exchange Rate Risk"
+      ],
+      "anchor_text": "Foreign Exchange Rate Risk"
+    },
+    {
+      "page": 30,
+      "top": 42.748,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data"
+      ],
+      "anchor_text": "Item 8. Financial Statements and Supplementary Data"
+    },
+    {
+      "page": 30,
+      "top": 76.306,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Index to Consolidated Financial Statements Page"
+      ],
+      "anchor_text": "Index to Consolidated Financial Statements Page"
+    },
+    {
+      "page": 31,
+      "top": 62.548,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "CONSOLIDATED STATEMENTS OF OPERATIONS"
+      ],
+      "anchor_text": "CONSOLIDATED STATEMENTS OF OPERATIONS"
+    },
+    {
+      "page": 32,
+      "top": 62.548,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME"
+      ],
+      "anchor_text": "CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME"
+    },
+    {
+      "page": 33,
+      "top": 62.548,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "CONSOLIDATED BALANCE SHEETS"
+      ],
+      "anchor_text": "CONSOLIDATED BALANCE SHEETS"
+    },
+    {
+      "page": 34,
+      "top": 62.548,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY"
+      ],
+      "anchor_text": "CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY"
+    },
+    {
+      "page": 35,
+      "top": 62.548,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "CONSOLIDATED STATEMENTS OF CASH FLOWS"
+      ],
+      "anchor_text": "CONSOLIDATED STATEMENTS OF CASH FLOWS"
+    },
+    {
+      "page": 36,
+      "top": 62.548,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements"
+      ],
+      "anchor_text": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "page": 36,
+      "top": 85.348,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 1 – Summary of Significant Accounting Policies"
+      ],
+      "anchor_text": "Note 1 – Summary of Significant Accounting Policies"
+    },
+    {
+      "page": 36,
+      "top": 105.148,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 1 – Summary of Significant Accounting Policies",
+        "Basis of Presentation and Preparation"
+      ],
+      "anchor_text": "Basis of Presentation and Preparation"
+    },
+    {
+      "page": 36,
+      "top": 249.148,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 1 – Summary of Significant Accounting Policies",
+        "Revenue"
+      ],
+      "anchor_text": "Revenue"
+    },
+    {
+      "page": 36,
+      "top": 294.748,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 1 – Summary of Significant Accounting Policies",
+        "Share-Based Compensation"
+      ],
+      "anchor_text": "Share-Based Compensation"
+    },
+    {
+      "page": 36,
+      "top": 351.148,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 1 – Summary of Significant Accounting Policies",
+        "Cash Equivalents"
+      ],
+      "anchor_text": "Cash Equivalents"
+    },
+    {
+      "page": 36,
+      "top": 396.748,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 1 – Summary of Significant Accounting Policies",
+        "Marketable Securities"
+      ],
+      "anchor_text": "Marketable Securities"
+    },
+    {
+      "page": 36,
+      "top": 442.348,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 1 – Summary of Significant Accounting Policies",
+        "Inventories"
+      ],
+      "anchor_text": "Inventories"
+    },
+    {
+      "page": 36,
+      "top": 487.948,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 1 – Summary of Significant Accounting Policies",
+        "Property, Plant and Equipment"
+      ],
+      "anchor_text": "Property, Plant and Equipment"
+    },
+    {
+      "page": 36,
+      "top": 533.548,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 1 – Summary of Significant Accounting Policies",
+        "Derivative Instruments"
+      ],
+      "anchor_text": "Derivative Instruments"
+    },
+    {
+      "page": 36,
+      "top": 579.148,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 1 – Summary of Significant Accounting Policies",
+        "Income Taxes"
+      ],
+      "anchor_text": "Income Taxes"
+    },
+    {
+      "page": 36,
+      "top": 635.548,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 1 – Summary of Significant Accounting Policies",
+        "Leases"
+      ],
+      "anchor_text": "Leases"
+    },
+    {
+      "page": 37,
+      "top": 42.748,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 2 – Revenue"
+      ],
+      "anchor_text": "Note 2 – Revenue"
+    },
+    {
+      "page": 38,
+      "top": 363.798,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 3 – Earnings Per Share"
+      ],
+      "anchor_text": "Note 3 – Earnings Per Share"
+    },
+    {
+      "page": 39,
+      "top": 42.748,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 4 – Financial Instruments"
+      ],
+      "anchor_text": "Note 4 – Financial Instruments"
+    },
+    {
+      "page": 39,
+      "top": 62.548,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 4 – Financial Instruments",
+        "Cash, Cash Equivalents and Marketable Securities"
+      ],
+      "anchor_text": "Cash, Cash Equivalents and Marketable Securities"
+    },
+    {
+      "page": 40,
+      "top": 194.748,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 4 – Financial Instruments",
+        "Derivative Instruments and Hedging"
+      ],
+      "anchor_text": "Derivative Instruments and Hedging"
+    },
+    {
+      "page": 40,
+      "top": 306.348,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 4 – Financial Instruments",
+        "Derivative Instruments and Hedging",
+        "Foreign Exchange Rate Risk"
+      ],
+      "anchor_text": "Foreign Exchange Rate Risk"
+    },
+    {
+      "page": 40,
+      "top": 483.948,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 4 – Financial Instruments",
+        "Derivative Instruments and Hedging",
+        "Interest Rate Risk"
+      ],
+      "anchor_text": "Interest Rate Risk"
+    },
+    {
+      "page": 41,
+      "top": 464.948,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 4 – Financial Instruments",
+        "Accounts Receivable"
+      ],
+      "anchor_text": "Accounts Receivable"
+    },
+    {
+      "page": 41,
+      "top": 484.748,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 4 – Financial Instruments",
+        "Accounts Receivable",
+        "Trade Receivables"
+      ],
+      "anchor_text": "Trade Receivables"
+    },
+    {
+      "page": 41,
+      "top": 562.748,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 4 – Financial Instruments",
+        "Accounts Receivable",
+        "Vendor Non-Trade Receivables"
+      ],
+      "anchor_text": "Vendor Non-Trade Receivables"
+    },
+    {
+      "page": 42,
+      "top": 42.748,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 5 – Property, Plant and Equipment"
+      ],
+      "anchor_text": "Note 5 – Property, Plant and Equipment"
+    },
+    {
+      "page": 42,
+      "top": 238.998,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 6 – Consolidated Financial Statement Details"
+      ],
+      "anchor_text": "Note 6 – Consolidated Financial Statement Details"
+    },
+    {
+      "page": 42,
+      "top": 295.398,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 6 – Consolidated Financial Statement Details",
+        "Other Non-Current Assets"
+      ],
+      "anchor_text": "Other Non-Current Assets"
+    },
+    {
+      "page": 42,
+      "top": 387.698,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 6 – Consolidated Financial Statement Details",
+        "Other Current Liabilities"
+      ],
+      "anchor_text": "Other Current Liabilities"
+    },
+    {
+      "page": 42,
+      "top": 479.998,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 6 – Consolidated Financial Statement Details",
+        "Other Non-Current Liabilities"
+      ],
+      "anchor_text": "Other Non-Current Liabilities"
+    },
+    {
+      "page": 42,
+      "top": 572.298,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 6 – Consolidated Financial Statement Details",
+        "Other Income/(Expense), Net"
+      ],
+      "anchor_text": "Other Income/(Expense), Net"
+    },
+    {
+      "page": 43,
+      "top": 42.748,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 7 – Income Taxes"
+      ],
+      "anchor_text": "Note 7 – Income Taxes"
+    },
+    {
+      "page": 43,
+      "top": 62.548,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 7 – Income Taxes",
+        "Provision for Income Taxes and Effective Tax Rate"
+      ],
+      "anchor_text": "Provision for Income Taxes and Effective Tax Rate"
+    },
+    {
+      "page": 44,
+      "top": 42.748,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 7 – Income Taxes",
+        "Deferred Tax Assets and Liabilities"
+      ],
+      "anchor_text": "Deferred Tax Assets and Liabilities"
+    },
+    {
+      "page": 44,
+      "top": 435.048,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 7 – Income Taxes",
+        "Uncertain Tax Positions"
+      ],
+      "anchor_text": "Uncertain Tax Positions"
+    },
+    {
+      "page": 45,
+      "top": 42.748,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 7 – Income Taxes",
+        "European Commission State Aid Decision"
+      ],
+      "anchor_text": "European Commission State Aid Decision"
+    },
+    {
+      "page": 45,
+      "top": 262.348,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 8 – Leases"
+      ],
+      "anchor_text": "Note 8 – Leases"
+    },
+    {
+      "page": 46,
+      "top": 339.948,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 9 – Debt"
+      ],
+      "anchor_text": "Note 9 – Debt"
+    },
+    {
+      "page": 46,
+      "top": 359.748,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 9 – Debt",
+        "Commercial Paper"
+      ],
+      "anchor_text": "Commercial Paper"
+    },
+    {
+      "page": 47,
+      "top": 42.748,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 9 – Debt",
+        "Term Debt"
+      ],
+      "anchor_text": "Term Debt"
+    },
+    {
+      "page": 47,
+      "top": 569.648,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 10 – Shareholders’ Equity"
+      ],
+      "anchor_text": "Note 10 – Shareholders’ Equity"
+    },
+    {
+      "page": 47,
+      "top": 589.448,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 10 – Shareholders’ Equity",
+        "Share Repurchase Program"
+      ],
+      "anchor_text": "Share Repurchase Program"
+    },
+    {
+      "page": 48,
+      "top": 42.748,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 10 – Shareholders’ Equity",
+        "Shares of Common Stock"
+      ],
+      "anchor_text": "Shares of Common Stock"
+    },
+    {
+      "page": 48,
+      "top": 166.098,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 11 – Share-Based Compensation"
+      ],
+      "anchor_text": "Note 11 – Share-Based Compensation"
+    },
+    {
+      "page": 48,
+      "top": 185.898,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 11 – Share-Based Compensation",
+        "2022 Employee Stock Plan"
+      ],
+      "anchor_text": "2022 Employee Stock Plan"
+    },
+    {
+      "page": 48,
+      "top": 296.298,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 11 – Share-Based Compensation",
+        "2014 Employee Stock Plan"
+      ],
+      "anchor_text": "2014 Employee Stock Plan"
+    },
+    {
+      "page": 48,
+      "top": 374.298,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 11 – Share-Based Compensation",
+        "Restricted Stock Units"
+      ],
+      "anchor_text": "Restricted Stock Units"
+    },
+    {
+      "page": 49,
+      "top": 42.748,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 11 – Share-Based Compensation",
+        "Share-Based Compensation"
+      ],
+      "anchor_text": "Share-Based Compensation"
+    },
+    {
+      "page": 49,
+      "top": 181.998,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 12 – Commitments, Contingencies and Supply Concentrations"
+      ],
+      "anchor_text": "Note 12 – Commitments, Contingencies and Supply Concentrations"
+    },
+    {
+      "page": 49,
+      "top": 201.798,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 12 – Commitments, Contingencies and Supply Concentrations",
+        "Unconditional Purchase Obligations"
+      ],
+      "anchor_text": "Unconditional Purchase Obligations"
+    },
+    {
+      "page": 49,
+      "top": 401.348,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 12 – Commitments, Contingencies and Supply Concentrations",
+        "Contingencies"
+      ],
+      "anchor_text": "Contingencies"
+    },
+    {
+      "page": 49,
+      "top": 479.348,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 12 – Commitments, Contingencies and Supply Concentrations",
+        "Concentrations in the Available Sources of Supply of Materials and Product"
+      ],
+      "anchor_text": "Concentrations in the Available Sources of Supply of Materials and Product"
+    },
+    {
+      "page": 50,
+      "top": 42.748,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Notes to Consolidated Financial Statements",
+        "Note 13 – Segment Information and Geographic Data"
+      ],
+      "anchor_text": "Note 13 – Segment Information and Geographic Data"
+    },
+    {
+      "page": 52,
+      "top": 53.548,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Report of Independent Registered Public Accounting Firm"
+      ],
+      "anchor_text": "Report of Independent Registered Public Accounting Firm"
+    },
+    {
+      "page": 52,
+      "top": 99.148,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Report of Independent Registered Public Accounting Firm",
+        "Opinion on the Financial Statements"
+      ],
+      "anchor_text": "Opinion on the Financial Statements"
+    },
+    {
+      "page": 52,
+      "top": 247.948,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Report of Independent Registered Public Accounting Firm",
+        "Basis for Opinion"
+      ],
+      "anchor_text": "Basis for Opinion"
+    },
+    {
+      "page": 52,
+      "top": 407.548,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Report of Independent Registered Public Accounting Firm",
+        "Critical Audit Matter"
+      ],
+      "anchor_text": "Critical Audit Matter"
+    },
+    {
+      "page": 52,
+      "top": 498.898,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Report of Independent Registered Public Accounting Firm",
+        "Uncertain Tax Positions"
+      ],
+      "anchor_text": "Uncertain Tax Positions"
+    },
+    {
+      "page": 54,
+      "top": 53.548,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Report of Independent Registered Public Accounting Firm"
+      ],
+      "anchor_text": "Report of Independent Registered Public Accounting Firm"
+    },
+    {
+      "page": 54,
+      "top": 99.148,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Report of Independent Registered Public Accounting Firm",
+        "Opinion on Internal Control Over Financial Reporting"
+      ],
+      "anchor_text": "Opinion on Internal Control Over Financial Reporting"
+    },
+    {
+      "page": 54,
+      "top": 237.148,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Report of Independent Registered Public Accounting Firm",
+        "Basis for Opinion"
+      ],
+      "anchor_text": "Basis for Opinion"
+    },
+    {
+      "page": 54,
+      "top": 430.348,
+      "section_path": [
+        "PART II",
+        "Item 8. Financial Statements and Supplementary Data",
+        "Report of Independent Registered Public Accounting Firm",
+        "Definition and Limitations of Internal Control Over Financial Reporting"
+      ],
+      "anchor_text": "Definition and Limitations of Internal Control Over Financial Reporting"
+    },
+    {
+      "page": 55,
+      "top": 42.748,
+      "section_path": [
+        "PART II",
+        "Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure"
+      ],
+      "anchor_text": "Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure"
+    },
+    {
+      "page": 55,
+      "top": 91.348,
+      "section_path": [
+        "PART II",
+        "Item 9A. Controls and Procedures"
+      ],
+      "anchor_text": "Item 9A. Controls and Procedures"
+    },
+    {
+      "page": 55,
+      "top": 111.148,
+      "section_path": [
+        "PART II",
+        "Item 9A. Controls and Procedures",
+        "Evaluation of Disclosure Controls and Procedures"
+      ],
+      "anchor_text": "Evaluation of Disclosure Controls and Procedures"
+    },
+    {
+      "page": 55,
+      "top": 221.548,
+      "section_path": [
+        "PART II",
+        "Item 9A. Controls and Procedures",
+        "Inherent Limitations over Internal Controls"
+      ],
+      "anchor_text": "Inherent Limitations over Internal Controls"
+    },
+    {
+      "page": 55,
+      "top": 483.748,
+      "section_path": [
+        "PART II",
+        "Item 9A. Controls and Procedures",
+        "Management’s Annual Report on Internal Control over Financial Reporting"
+      ],
+      "anchor_text": "Management’s Annual Report on Internal Control over Financial Reporting"
+    },
+    {
+      "page": 55,
+      "top": 604.948,
+      "section_path": [
+        "PART II",
+        "Item 9A. Controls and Procedures",
+        "Changes in Internal Control over Financial Reporting"
+      ],
+      "anchor_text": "Changes in Internal Control over Financial Reporting"
+    },
+    {
+      "page": 56,
+      "top": 42.748,
+      "section_path": [
+        "PART II",
+        "Item 9B. Other Information"
+      ],
+      "anchor_text": "Item 9B. Other Information"
+    },
+    {
+      "page": 56,
+      "top": 62.548,
+      "section_path": [
+        "PART II",
+        "Item 9B. Other Information",
+        "Insider Trading Arrangements"
+      ],
+      "anchor_text": "Insider Trading Arrangements"
+    },
+    {
+      "page": 56,
+      "top": 162.148,
+      "section_path": [
+        "PART II",
+        "Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections"
+      ],
+      "anchor_text": "Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections"
+    },
+    {
+      "page": 56,
+      "top": 210.748,
+      "section_path": [
+        "PART III"
+      ],
+      "anchor_text": "PART III"
+    },
+    {
+      "page": 56,
+      "top": 233.548,
+      "section_path": [
+        "PART III",
+        "Item 10. Directors, Executive Officers and Corporate Governance"
+      ],
+      "anchor_text": "Item 10. Directors, Executive Officers and Corporate Governance"
+    },
+    {
+      "page": 56,
+      "top": 303.748,
+      "section_path": [
+        "PART III",
+        "Item 11. Executive Compensation"
+      ],
+      "anchor_text": "Item 11. Executive Compensation"
+    },
+    {
+      "page": 56,
+      "top": 352.348,
+      "section_path": [
+        "PART III",
+        "Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters"
+      ],
+      "anchor_text": "Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters"
+    },
+    {
+      "page": 56,
+      "top": 400.948,
+      "section_path": [
+        "PART III",
+        "Item 13. Certain Relationships and Related Transactions, and Director Independence"
+      ],
+      "anchor_text": "Item 13. Certain Relationships and Related Transactions, and Director Independence"
+    },
+    {
+      "page": 56,
+      "top": 449.548,
+      "section_path": [
+        "PART III",
+        "Item 14. Principal Accountant Fees and Services"
+      ],
+      "anchor_text": "Item 14. Principal Accountant Fees and Services"
+    },
+    {
+      "page": 57,
+      "top": 42.748,
+      "section_path": [
+        "PART IV"
+      ],
+      "anchor_text": "PART IV"
+    },
+    {
+      "page": 57,
+      "top": 65.548,
+      "section_path": [
+        "PART IV",
+        "Item 15. Exhibit and Financial Statement Schedules"
+      ],
+      "anchor_text": "Item 15. Exhibit and Financial Statement Schedules"
+    },
+    {
+      "page": 57,
+      "top": 85.348,
+      "section_path": [
+        "PART IV",
+        "Item 15. Exhibit and Financial Statement Schedules",
+        "(a) Documents filed as part of this report"
+      ],
+      "anchor_text": "(a) Documents filed as part of this report"
+    },
+    {
+      "page": 57,
+      "top": 105.148,
+      "section_path": [
+        "PART IV",
+        "Item 15. Exhibit and Financial Statement Schedules",
+        "(1) All financial statements"
+      ],
+      "anchor_text": "(1) All financial statements"
+    },
+    {
+      "page": 57,
+      "top": 303.048,
+      "section_path": [
+        "PART IV",
+        "Item 15. Exhibit and Financial Statement Schedules",
+        "(2) Financial Statement Schedules"
+      ],
+      "anchor_text": "(2) Financial Statement Schedules"
+    },
+    {
+      "page": 57,
+      "top": 366.279,
+      "section_path": [
+        "PART IV",
+        "Item 15. Exhibit and Financial Statement Schedules",
+        "(3) Exhibits required by Item 601 of Regulation S-K (1)"
+      ],
+      "anchor_text": "(3) Exhibits required by Item 601 of Regulation S-K (1)"
+    },
+    {
+      "page": 60,
+      "top": 209.598,
+      "section_path": [
+        "PART IV",
+        "Item 16. Form 10-K Summary"
+      ],
+      "anchor_text": "Item 16. Form 10-K Summary"
+    },
+    {
+      "page": 61,
+      "top": 42.748,
+      "section_path": [
+        "SIGNATURES"
+      ],
+      "anchor_text": "SIGNATURES"
+    },
+    {
+      "page": 61,
+      "top": 193.398,
+      "section_path": [
+        "Power of Attorney"
+      ],
+      "anchor_text": "Power of Attorney"
+    },
+    {
+      "page": 62,
+      "top": 25.498,
+      "section_path": [
+        "Exhibit 4.1"
+      ],
+      "anchor_text": "Exhibit 4.1"
+    },
+    {
+      "page": 62,
+      "top": 71.998,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF THE REGISTRANT’S SECURITIES REGISTERED PURSUANT TO SECTION 12 OF THE SECURITIES EXCHANGE ACT OF 1934"
+      ],
+      "anchor_text": "DESCRIPTION OF THE REGISTRANT’S SECURITIES REGISTERED PURSUANT TO SECTION 12 OF THE SECURITIES EXCHANGE ACT OF 1934"
+    },
+    {
+      "page": 62,
+      "top": 244.198,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF COMMON STOCK"
+      ],
+      "anchor_text": "DESCRIPTION OF COMMON STOCK"
+    },
+    {
+      "page": 62,
+      "top": 314.998,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF COMMON STOCK",
+        "Authorized Capital Stock"
+      ],
+      "anchor_text": "Authorized Capital Stock"
+    },
+    {
+      "page": 62,
+      "top": 356.398,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF COMMON STOCK",
+        "Common Stock"
+      ],
+      "anchor_text": "Common Stock"
+    },
+    {
+      "page": 62,
+      "top": 373.198,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF COMMON STOCK",
+        "Common Stock",
+        "Fully Paid and Nonassessable"
+      ],
+      "anchor_text": "Fully Paid and Nonassessable"
+    },
+    {
+      "page": 62,
+      "top": 414.598,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF COMMON STOCK",
+        "Common Stock",
+        "Voting Rights"
+      ],
+      "anchor_text": "Voting Rights"
+    },
+    {
+      "page": 63,
+      "top": 118.198,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF COMMON STOCK",
+        "Common Stock",
+        "Dividends"
+      ],
+      "anchor_text": "Dividends"
+    },
+    {
+      "page": 63,
+      "top": 170.398,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF COMMON STOCK",
+        "Common Stock",
+        "Right to Receive Liquidation Distributions"
+      ],
+      "anchor_text": "Right to Receive Liquidation Distributions"
+    },
+    {
+      "page": 63,
+      "top": 222.598,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF COMMON STOCK",
+        "Common Stock",
+        "No Preemptive or Similar Rights"
+      ],
+      "anchor_text": "No Preemptive or Similar Rights"
+    },
+    {
+      "page": 63,
+      "top": 274.798,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF COMMON STOCK",
+        "Anti-Takeover Provisions of the Articles, Bylaws and California Law"
+      ],
+      "anchor_text": "Anti-Takeover Provisions of the Articles, Bylaws and California Law"
+    },
+    {
+      "page": 63,
+      "top": 629.398,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF COMMON STOCK",
+        "Listing"
+      ],
+      "anchor_text": "Listing"
+    },
+    {
+      "page": 64,
+      "top": 71.998,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF DEBT SECURITIES"
+      ],
+      "anchor_text": "DESCRIPTION OF DEBT SECURITIES"
+    },
+    {
+      "page": 64,
+      "top": 178.198,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF DEBT SECURITIES",
+        "The Notes"
+      ],
+      "anchor_text": "The Notes"
+    },
+    {
+      "page": 64,
+      "top": 305.998,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF DEBT SECURITIES",
+        "The Notes",
+        "The 2024 Notes"
+      ],
+      "anchor_text": "The 2024 Notes"
+    },
+    {
+      "page": 64,
+      "top": 379.798,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF DEBT SECURITIES",
+        "The Notes",
+        "The 0.000% 2025 Notes"
+      ],
+      "anchor_text": "The 0.000% 2025 Notes"
+    },
+    {
+      "page": 64,
+      "top": 453.598,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF DEBT SECURITIES",
+        "The Notes",
+        "The 0.875% 2025 Notes"
+      ],
+      "anchor_text": "The 0.875% 2025 Notes"
+    },
+    {
+      "page": 64,
+      "top": 527.398,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF DEBT SECURITIES",
+        "The Notes",
+        "The 2026 Notes"
+      ],
+      "anchor_text": "The 2026 Notes"
+    },
+    {
+      "page": 64,
+      "top": 601.198,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF DEBT SECURITIES",
+        "The Notes",
+        "The 2027 Notes"
+      ],
+      "anchor_text": "The 2027 Notes"
+    },
+    {
+      "page": 65,
+      "top": 71.998,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF DEBT SECURITIES",
+        "The Notes",
+        "The 1.375% 2029 Notes"
+      ],
+      "anchor_text": "The 1.375% 2029 Notes"
+    },
+    {
+      "page": 65,
+      "top": 145.798,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF DEBT SECURITIES",
+        "The Notes",
+        "The 3.050% 2029 Notes"
+      ],
+      "anchor_text": "The 3.050% 2029 Notes"
+    },
+    {
+      "page": 65,
+      "top": 219.598,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF DEBT SECURITIES",
+        "The Notes",
+        "The 2031 Notes"
+      ],
+      "anchor_text": "The 2031 Notes"
+    },
+    {
+      "page": 65,
+      "top": 293.398,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF DEBT SECURITIES",
+        "The Notes",
+        "The 2042 Notes"
+      ],
+      "anchor_text": "The 2042 Notes"
+    },
+    {
+      "page": 65,
+      "top": 367.198,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF DEBT SECURITIES",
+        "Ranking"
+      ],
+      "anchor_text": "Ranking"
+    },
+    {
+      "page": 65,
+      "top": 484.198,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF DEBT SECURITIES",
+        "Payment on the Notes"
+      ],
+      "anchor_text": "Payment on the Notes"
+    },
+    {
+      "page": 66,
+      "top": 364.798,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF DEBT SECURITIES",
+        "Payment of Additional Amounts"
+      ],
+      "anchor_text": "Payment of Additional Amounts"
+    },
+    {
+      "page": 68,
+      "top": 107.398,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF DEBT SECURITIES",
+        "Redemption for Tax Reasons"
+      ],
+      "anchor_text": "Redemption for Tax Reasons"
+    },
+    {
+      "page": 68,
+      "top": 289.198,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF DEBT SECURITIES",
+        "Optional Redemption"
+      ],
+      "anchor_text": "Optional Redemption"
+    },
+    {
+      "page": 69,
+      "top": 452.998,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF DEBT SECURITIES",
+        "Covenants"
+      ],
+      "anchor_text": "Covenants"
+    },
+    {
+      "page": 69,
+      "top": 580.798,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF DEBT SECURITIES",
+        "Covenants",
+        "Consolidation, Merger and Sale of Assets"
+      ],
+      "anchor_text": "Consolidation, Merger and Sale of Assets"
+    },
+    {
+      "page": 70,
+      "top": 269.398,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF DEBT SECURITIES",
+        "Events of Default"
+      ],
+      "anchor_text": "Events of Default"
+    },
+    {
+      "page": 72,
+      "top": 280.198,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF DEBT SECURITIES",
+        "Modification and Waivers"
+      ],
+      "anchor_text": "Modification and Waivers"
+    },
+    {
+      "page": 74,
+      "top": 193.798,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF DEBT SECURITIES",
+        "Discharge, Defeasance and Covenant Defeasance"
+      ],
+      "anchor_text": "Discharge, Defeasance and Covenant Defeasance"
+    },
+    {
+      "page": 75,
+      "top": 161.398,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF DEBT SECURITIES",
+        "Book-Entry and Settlement"
+      ],
+      "anchor_text": "Book-Entry and Settlement"
+    },
+    {
+      "page": 75,
+      "top": 235.198,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF DEBT SECURITIES",
+        "Certificated Notes"
+      ],
+      "anchor_text": "Certificated Notes"
+    },
+    {
+      "page": 75,
+      "top": 481.798,
+      "section_path": [
+        "Exhibit 4.1",
+        "DESCRIPTION OF DEBT SECURITIES",
+        "The Trustee for the Notes"
+      ],
+      "anchor_text": "The Trustee for the Notes"
+    },
+    {
+      "page": 76,
+      "top": 42.748,
+      "section_path": [
+        "Exhibit 21.1"
+      ],
+      "anchor_text": "Exhibit 21.1"
+    },
+    {
+      "page": 76,
+      "top": 65.548,
+      "section_path": [
+        "Exhibit 21.1",
+        "Subsidiaries of Apple Inc.*"
+      ],
+      "anchor_text": "Subsidiaries of Apple Inc.*"
+    },
+    {
+      "page": 77,
+      "top": 42.748,
+      "section_path": [
+        "Exhibit 23.1"
+      ],
+      "anchor_text": "Exhibit 23.1"
+    },
+    {
+      "page": 77,
+      "top": 71.548,
+      "section_path": [
+        "Exhibit 23.1",
+        "Consent of Independent Registered Public Accounting Firm"
+      ],
+      "anchor_text": "Consent of Independent Registered Public Accounting Firm"
+    },
+    {
+      "page": 78,
+      "top": 42.748,
+      "section_path": [
+        "Exhibit 31.1"
+      ],
+      "anchor_text": "Exhibit 31.1"
+    },
+    {
+      "page": 78,
+      "top": 65.548,
+      "section_path": [
+        "Exhibit 31.1",
+        "CERTIFICATION"
+      ],
+      "anchor_text": "CERTIFICATION"
+    },
+    {
+      "page": 79,
+      "top": 42.748,
+      "section_path": [
+        "Exhibit 31.2"
+      ],
+      "anchor_text": "Exhibit 31.2"
+    },
+    {
+      "page": 79,
+      "top": 65.548,
+      "section_path": [
+        "Exhibit 31.2",
+        "CERTIFICATION"
+      ],
+      "anchor_text": "CERTIFICATION"
+    },
+    {
+      "page": 80,
+      "top": 42.748,
+      "section_path": [
+        "Exhibit 32.1"
+      ],
+      "anchor_text": "Exhibit 32.1"
+    },
+    {
+      "page": 80,
+      "top": 65.548,
+      "section_path": [
+        "Exhibit 32.1",
+        "CERTIFICATIONS OF CHIEF EXECUTIVE OFFICER AND CHIEF FINANCIAL OFFICER PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002"
+      ],
+      "anchor_text": "CERTIFICATIONS OF CHIEF EXECUTIVE OFFICER AND CHIEF FINANCIAL OFFICER PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002"
+    }
+  ]
+}
